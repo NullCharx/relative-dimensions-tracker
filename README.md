@@ -1,2 +1,2 @@
 # relative-dimensions-tracker
-Tracker for the (as of now) private repo of the mod
+Tracker for the (as of now) private repo of the mod relative-dimensions.
